@@ -1,0 +1,9 @@
+{
+"require":{
+"j4mie/idiorm":"1.5.6",
+"olamedia/nokogiri":"1.0",
+"slim/slim":"3.10.0",
+"php-curl-class/php-curl-class":"@dev",
+        "phpunit/php-timer": "^2.0"
+	}
+}
